@@ -30,6 +30,30 @@ time, mark, audio, video {
     --font-bold: 700;
 }
 
+*{
+    box-sizing: border-box;
+}
+
+html{
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    font-family: "Poppins", sans-serif;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quiz-container{
+    background-color: white;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
+    overflow: hidden;
+}
+
+
 
 
 
