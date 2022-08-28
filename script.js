@@ -47,7 +47,7 @@ const quizData = [
     {
         question: "Salah satu kelebihan sifat primer adalah...",
         a: "Mudah diakses",
-        b: "Membutuhkan waktu lama",
+        b: "Tidak otentik",
         c: "Subjektif",
         d: "Objektif",
         correct: "d",
@@ -57,8 +57,8 @@ const quizData = [
         question: "Salah satu kekurangan sekunder adalah...",
         a: "Sulit diakses",
         b: "Subjektif",
-        c: "Membutuhkan waktu lama",
-        d: "Biaya yang dikeluarkan cukup besar",
+        c: "Objektif",
+        d: "Biayanya cukup besar",
         correct: "b",
     },
 
